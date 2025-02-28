@@ -2,6 +2,12 @@
 
 ![image](https://github.com/user-attachments/assets/fc2788a1-7581-4eed-8371-ab4ddf9a991b)
 
+# Cost Analysis:
+![image](https://github.com/user-attachments/assets/201c956f-1b5d-4430-81bf-3a264f1aa58b)
+![image](https://github.com/user-attachments/assets/6c099cbf-0464-403e-bc28-68d1878fb891)
+
+
+# Setup:
 ![image](https://github.com/user-attachments/assets/f97b2d3b-afe9-4070-8287-33b930987959)
 ![image](https://github.com/user-attachments/assets/bd284ea6-e441-4706-86d8-1a3e99641f2e)
 
